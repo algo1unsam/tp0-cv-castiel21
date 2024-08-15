@@ -1,22 +1,23 @@
 # TP0-CV
 # Agustin lopez
 ## Acerca de mi
-hola me presento, soy agustin lopez  y tengo 22 años, me considero una personas con habilidades blandas competentes como el multitasking debido a mi experiencia laboral, soy apasionado de los viajes,conocer lugares, personas, comidas nuevas y demas.pero mi mayor pasion es la programacion ya que gracias a esta puedo explotar mi imaginacion para crear nuevos programas,juegos,apps y demas.
-
+hola mi nombre es agustin lopez,tengo 22 años y me encuentro cursando la carrera de programacion informatica, con el objetivo de poder desarrollarme como profesional en la programacion back-end y front-end. Mi meta es formar parte en proyectos importantes ya sea de videojuegos,aplicaciones o programas.
+(quiero trabajar para una empresa de afuera y ganar en dolares)
+![stonks](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/04/stonks-2286073.jpg)
 # experiencia laboral
 ## arcos dorados
 ### crew (2022-actualidad)
-desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y decarga de productos.
+desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y descarga de productos.
+![cansado de la chamba](https://content.imageresizer.com/images/memes/Estoy-cansado-jefe-meme-8nwptq.jpg)
 
 # estudios
 ## tecnicatura en programacion informatica
 ### UNSAM (2022-ACTUALIDAD)
-
+en la cual hasta el dia de la fecha puede aprender de manera basica los lenguajes C y python desarrollando trabajos integradores.
+![no compila](https://tecnofacts.mx/wp-content/uploads/2018/11/memes-de-programadores-1.jpg)
 # videojuegos
 ### 1.call of duty (warzone y world war 2)                                                  
 ### 2.gears of war (todos)
-![hermoso juego](https://i.ytimg.com/vi/PrLob1KY5P4/maxresdefault.jpg)
-
 ### 3.halo (todos donde este el jefe maestro)
 ### 4.cualquier juego que tenga una buena historia
-![juego recomendado](https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2020/10/10/mafia-announce-screenshot-salieri-yard-1.jpeg)
+
