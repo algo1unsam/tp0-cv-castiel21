@@ -8,7 +8,7 @@ hola mi nombre es agustin lopez,tengo 22 años y me encuentro cursando la carrer
 ## arcos dorados
 ### crew (2022-actualidad)
 desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y descarga de productos.
-![cansado de la chamba](https://content.imageresizer.com/images/memes/Estoy-cansado-jefe-meme-8nwptq.jpg)
+![cansado de la chamba](https://cdn.memegenerator.es/imagenes/memes/thumb/33/18/33180148.jpg)
 
 # estudios
 ## tecnicatura en programacion informatica
