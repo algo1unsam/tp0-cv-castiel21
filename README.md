@@ -7,9 +7,9 @@ hola mi nombre es Agustin Lopez, tengo 22 años y me encuentro cursando la carre
 ### Crew (2022-actualidad)
 desarrollé tareas generales tales como:
 ### Encargado de cocina
-En este puesto me encarcagaba de iniciar los pedidos que eran hechos desde varias plataformas como los NLZ (kiosco), MOP (aplicacion) y automac, encargandome de que no falte ni sobre ningun producto.
+En este puesto me encargo de iniciar los pedidos que eran hechos desde varias plataformas como los NLZ (kiosco), MOP (aplicacion) y automac, encargandome de que no falte ni sobre ningun producto.
 ### Expedidor de pedidos
-En este puesto me encargaba de controlar que cada pedido este bien armado ya sea de servicio,delivery y automac.
+En este puesto me encargo de controlar que cada pedido este bien armado ya sea de servicio,delivery y automac.
 ![cansado de la chamba](https://cdn.memegenerator.es/imagenes/memes/thumb/33/18/33180148.jpg)
 
 # ESTUDIOS
