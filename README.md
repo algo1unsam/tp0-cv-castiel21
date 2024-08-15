@@ -15,7 +15,7 @@ desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y deca
 # videojuegos
 ### 1.call of duty (warzone y world war 2)                                                  
 ### 2.gears of war (todos)
-!(https://i.ytimg.com/vi/PrLob1KY5P4/maxresdefault.jpg)
+![hermoso juego](https://i.ytimg.com/vi/PrLob1KY5P4/maxresdefault.jpg)
 
 ### 3.halo (todos donde este el jefe maestro)
 ### 4.cualquier juego que tenga una buena historia
