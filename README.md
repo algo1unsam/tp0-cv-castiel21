@@ -5,7 +5,7 @@ hola me presento, soy agustin lopez  y tengo 22 años, me considero una personas
 
 # experiencia laboral
 ## arcos dorados
-## crew (2022-actualidad)
+### crew (2022-actualidad)
 desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y decarga de productos.
 
 # estudios
