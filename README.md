@@ -13,11 +13,10 @@ desarrollé tareas de cocina,limpieza,expidiendo pedidos,control de stock y deca
 ### UNSAM (2022-ACTUALIDAD)
 
 # videojuegos
-call of duty (warzone y world war 2
+1.call of duty (warzone y world war 2
 )
-gears of war (todos)
-!(https://i.ytimg.com/vi/PrLob1KY5P4/maxresdefault.jpg)
-
-halo (todos donde este el jefe maestro)
-y cualquier juego que tenga una buena historia
-!(https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2020/10/10/mafia-announce-screenshot-salieri-yard-1.jpeg)
+2.gears of war (todos)
+!https://i.ytimg.com/vi/PrLob1KY5P4/maxresdefault.jpg
+3.halo (todos donde este el jefe maestro)
+4.cualquier juego que tenga una buena historia
+!https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2020/10/10/mafia-announce-screenshot-salieri-yard-1.jpeg
