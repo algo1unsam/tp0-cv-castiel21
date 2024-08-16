@@ -2,8 +2,8 @@
 # AGUSTIN LOPEZ
 ## ACERCA DE MI
 Hola, soy Agustín López, tengo 22 años y actualmente estoy cursando la carrera de Programación Informática. Mi objetivo es especializarme en desarrollo back-end y front-end para convertirme en un profesional destacado en el campo.
-### La programación es mi pasión, ya que me permite expresar mi creatividad al máximo y dar vida a ideas y conceptos que antes solo existían en mi imaginación.
-### Además de la programación, me apasiona viajar y encontrar nuevos destinos, conocer diferentes culturas, disfrutar de variedades gastronómicas y conocer personas interesantes.
+#### La programación es mi pasión, ya que me permite expresar mi creatividad al máximo y dar vida a ideas y conceptos que antes solo existían en mi imaginación.
+#### Además de la programación, me apasiona viajar y encontrar nuevos destinos, conocer diferentes culturas, disfrutar de variedades gastronómicas y conocer personas interesantes.
  # EXPERIENCIA LABORAL
 ## Arcos Dorados
 ### Crew (2022-actualidad)
